@@ -4,3 +4,9 @@ This repository is porting of [person_detection example](https://github.com/tens
 ) in tensorflow lite micro for ESP32 (especially M5CAMERA).
 
 image_provider.cc is implemented for M5CAMERA.
+
+## depencency
+
+https://github.com/espressif/esp32-camera
+
+https://github.com/stnk20/tfmicro
